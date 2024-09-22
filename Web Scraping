@@ -1,1 +1,2 @@
 Web Scraping from Airbnb
+From Airbnb Website i have extracted A product details and its reviews in an excel filw using Selenium library and expath for Java dyamic site.
